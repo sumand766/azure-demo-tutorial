@@ -1,2 +1,2 @@
-# azure-demo-tutorial
-ETL pipeline for Azure demo.
+# tokyo-olympic-azure-data-engineering-project
+tokyo-olympic-azure-data-engineering-project
